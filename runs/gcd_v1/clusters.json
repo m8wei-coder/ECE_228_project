@@ -1,0 +1,108 @@
+[
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[0\\]$_DFFE_PP_",
+      "dpath.a_reg.out\\[1\\]$_DFFE_PP_",
+      "dpath.a_reg.out\\[8\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[0\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 99659.5,
+    "target_y": 58970.25,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[3\\]$_DFFE_PP_",
+      "dpath.a_reg.out\\[4\\]$_DFFE_PP_",
+      "dpath.a_reg.out\\[5\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[4\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 49098.0,
+    "target_y": 78249.75,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[2\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[1\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[2\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[3\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 68859.0,
+    "target_y": 58702.75,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[12\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[11\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[12\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[13\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 116056.5,
+    "target_y": 120460.25,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "ctrl.state.out\\[1\\]$_DFF_P_",
+      "dpath.a_reg.out\\[14\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V2X_1",
+    "target_x": 58254.0,
+    "target_y": 117150.5,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[9\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[7\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[8\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[9\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 130804.75,
+    "target_y": 77728.75,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[15\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[14\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[15\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[5\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 57372.5,
+    "target_y": 95546.75,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "ctrl.state.out\\[0\\]$_DFF_P_",
+      "ctrl.state.out\\[2\\]$_DFF_P_",
+      "dpath.a_reg.out\\[13\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[6\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 83224.0,
+    "target_y": 124804.5,
+    "orientation": "N"
+  },
+  {
+    "flop_names": [
+      "dpath.a_reg.out\\[10\\]$_DFFE_PP_",
+      "dpath.a_reg.out\\[11\\]$_DFFE_PP_",
+      "dpath.a_reg.out\\[7\\]$_DFFE_PP_",
+      "dpath.b_reg.out\\[10\\]$_DFFE_PP_"
+    ],
+    "mbff_master": "sg13g2_dfrbpq_V4X_1",
+    "target_x": 128232.0,
+    "target_y": 95612.75,
+    "orientation": "N"
+  }
+]
