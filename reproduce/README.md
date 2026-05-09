@@ -1,6 +1,6 @@
-## Reproduction
+# Reproduction
 
-# Codes and weights:
+## Codes and weights:
 `config.py` contains the configurations of hyperparameters for different datasets. Note that some of the hyperparameters used are different from the article configuration.
 
 `data_preprocessing.py` contains the helper codes for data preprocessing.
@@ -15,7 +15,7 @@
 
 `logs.tar` contains the byproducts of the training, such as the network weights.
 
-# Running the workflow:
+## Running the workflow:
 
 `python main.py --dataset FD00X` to run the training.
 
