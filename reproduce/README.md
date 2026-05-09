@@ -13,7 +13,7 @@
 
 `network.py` contains the structure of the LSTM network.
 
-# Running the workflow
+# Running the workflow:
 
 `python main.py --dataset FD00X` to run the training.
 
