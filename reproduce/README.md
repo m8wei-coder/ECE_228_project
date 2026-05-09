@@ -1,6 +1,6 @@
 ## Reproduction
 
-# Codes:
+# Codes and weights:
 `config.py` contains the configurations of hyperparameters for different datasets. Note that some of the hyperparameters used are different from the article configuration.
 
 `data_preprocessing.py` contains the helper codes for data preprocessing.
@@ -12,6 +12,8 @@
 `main_test.py` contains the codes to run the evaluation process.
 
 `network.py` contains the structure of the LSTM network.
+
+`logs.tar` contains the byproducts of the training, such as the network weights.
 
 # Running the workflow:
 
