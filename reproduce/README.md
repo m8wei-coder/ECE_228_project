@@ -1,7 +1,5 @@
 ## Reproduction
 
-## Running the code
-
 # Codes:
 `config.py` contains the configurations of hyperparameters for different datasets. Note that some of the hyperparameters used are different from the article configuration.
 
@@ -21,4 +19,4 @@
 
 `python main_test.py --dataset FD00X` to run the evaluation.
 
-# Note: Please unzip your data within the `./reproduce` directory, or customize the datapath in `config.py` to read the data.
+Note: Please unzip your data within the `./reproduce` directory, or customize the datapath in `config.py` to read the data.
